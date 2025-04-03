@@ -3,3 +3,4 @@ Flask
 flask-wtf
 flask_login
 requests
+sqlalchemy_serializer
