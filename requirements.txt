@@ -1,0 +1,4 @@
+SQLAlchemy
+Flask
+flask-wtf
+requests
